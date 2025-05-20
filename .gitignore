@@ -3,7 +3,7 @@
 data/
 docs/_build
 docs/.env
-
+data/
 
 # MyST build outputs
 _build
