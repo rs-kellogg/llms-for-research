@@ -11,12 +11,15 @@ https://bbycroft.net/llm
 
 :::{admonition}
 ![image](./images/background-big-3.png)
-[Building on LLMs](https://simonwillison.net/2025/May/15/building-on-llms/))
+
+[Source: Building on LLMs](https://simonwillison.net/2025/May/15/building-on-llms/)
 :::
 
 :::{admonition}
 ![image](./images/background-open-weights.png)
-[Building on LLMs](https://simonwillison.net/2025/May/15/building-on-llms/))
+[Source: Building on LLMs](https://simonwillison.net/2025/May/15/building-on-llms/)
+
+[GPUs on Quest](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=1112)
 :::
 
 :::{admonition}
