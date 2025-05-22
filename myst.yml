@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  # github:
+  github: https://github.com/wktkellogg/llms-for-research
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   
     
