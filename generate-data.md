@@ -4,7 +4,7 @@
 ![image](./images/mllm-personas.png)
 :::
 
-# Simulate Personas
+## Personas
 
 :::{admonition}
 ![image](./images/personaflow.png)
@@ -16,7 +16,7 @@
 Open the [Kellogg Personaflow](https://krs.kellogg.northwestern.edu/) demo
 ```
 
-## Simulate Individuals
+## Individuals
 
 :::{admonition}
 ![image](./images/agent-simulations.png)
