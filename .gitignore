@@ -4,6 +4,7 @@ data/
 docs/_build
 docs/.env
 data/
+notes.md
 
 # MyST build outputs
 _build
