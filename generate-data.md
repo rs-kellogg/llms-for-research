@@ -11,6 +11,11 @@
 [Personaflow](https://arxiv.org/abs/2409.12538)
 :::
 
+```{admonition} Demo
+:class: dropdown
+Open the [Kellogg Personaflow](https://krs.kellogg.northwestern.edu/) demo
+```
+
 ## Simulate Individuals
 
 :::{admonition}
