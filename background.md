@@ -1,5 +1,6 @@
 # Background
 
+## Data Transformers
 :::{admonition}
 ![image](./images/mllm.png)
 :::
@@ -8,6 +9,8 @@
 ![image](./images/background-visualization.png)
 https://bbycroft.net/llm
 :::
+
+## Available Models
 
 :::{admonition}
 ![image](./images/background-big-3.png)
@@ -21,6 +24,8 @@ https://bbycroft.net/llm
 
 [GPUs on Quest](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=1112)
 :::
+
+## Performance and Pricing
 
 :::{admonition}
 ![image](./images/background-arena.png)
