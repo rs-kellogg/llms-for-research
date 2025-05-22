@@ -1,6 +1,10 @@
 # Background
 
 :::{admonition}
+![image](./images/mllm.png)
+:::
+
+:::{admonition}
 ![image](./images/background-visualization.png)
 https://bbycroft.net/llm
 :::
