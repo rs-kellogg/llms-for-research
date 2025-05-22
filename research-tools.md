@@ -1,4 +1,4 @@
-# Tools for Research Support
+# Research Tools
 
 :::{admonition}
 ![image](./images/mllm-research.png)
