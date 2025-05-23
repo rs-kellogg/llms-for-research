@@ -15,6 +15,7 @@ project:
     - file: intro.md
     - file: background.md
     - file: process-data.md
+    - file: process-data.ipynb
     - file: generate-data.md
     - file: support-tools.md
     
