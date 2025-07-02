@@ -13,9 +13,11 @@ project:
     - file: background.md
     - file: process-data.md
       children:
+      - file: sentiment-analysis.md
       - file: process-data.ipynb
     - file: generate-data.md
       children:
+      - file: dichotomania.md
       - file: generate-data.ipynb
     - file: support-tools.md
     

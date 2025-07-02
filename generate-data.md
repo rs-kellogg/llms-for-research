@@ -1,4 +1,4 @@
-# Simulations
+# Generate Data
 
 :::{admonition}
 ![image](./images/mllm-personas.png)
