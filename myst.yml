@@ -15,8 +15,11 @@ project:
     - file: intro.md
     - file: background.md
     - file: process-data.md
-    - file: process-data.ipynb
+      children:
+      - file: process-data.ipynb
     - file: generate-data.md
+      children:
+      - file: generate-data.ipynb
     - file: support-tools.md
     
 site:
